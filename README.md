@@ -114,3 +114,6 @@ Yes, there are a lot of interesting things, for example, a randomly generated au
 But for a superficial acquaintance, I think that's enough.  
 
 Have a nice day :3
+
+## Screenshot :heart_eyes:
+![image](https://user-images.githubusercontent.com/56264511/165273711-0b8c3da8-cb06-43e9-ac1f-26a106c308a3.png)
