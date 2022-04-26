@@ -37,7 +37,7 @@ public class Main {
       }
     }
 
-    ImageIO.write(bufferedImage, "png", new File("noise.png"));
+    ImageIO.write(bufferedImage, "png", new File("terrain.png"));
   }
 
   /*
