@@ -1,4 +1,4 @@
-package just.curiosity.perlin_noise;
+package just.curiosity.perlin_noise_2d;
 
 import javax.imageio.ImageIO;
 import java.awt.*;

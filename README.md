@@ -1,5 +1,5 @@
 # perlin_noise_2d :cloud:
-#### Just a Perlin Noise (to be more precise, a simple terrain generation based on it).
+#### Just a 2D Perlin Noise (to be more precise, a simple terrain generation based on it).
 ## Perlin Noise.. how difficult is it? :flushed:
 Well.. let's just say..  
 This algorithm has already been tested by everyone and sundry :hatched_chick:  
