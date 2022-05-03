@@ -1,4 +1,4 @@
-# perlin_noise :earth_americas: :earth_asia: :earth_africa:
+# perlin_noise_2d :cloud:
 #### Just a Perlin Noise (to be more precise, a simple terrain generation based on it).
 ## Perlin Noise.. how difficult is it? :flushed:
 Well.. let's just say..  
